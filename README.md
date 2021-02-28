@@ -3,4 +3,4 @@ Our Project "Tweet Analyzer" shows the popularity of TV series based on the numb
 
 PHP file "webproject.php" is the home page of the website.
 
-PHP codes were run on WAMP Server. Therefore, the PHP files, images and text files are uploaded all together instead of separate folders.
+PHP codes were run on WAMP Server. 
